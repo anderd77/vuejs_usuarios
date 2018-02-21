@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "nombre": "Ander", "email": "ander@mail.com", password="123456" },
+    { "id": 2, "nombre": "Levi", "email": "levi@mail.com", password="ackerman"  },
+    { "id": 3, "nombre": "Light", "email": "light@mail.com", password="yagami"  }
+  ]
+}
